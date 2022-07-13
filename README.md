@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Claudia Paola Munoz Navaro
+- 👋 Hi, I’m Claudia Paola Munoz Navarro
 - 👀 I’m interested in Automation, UX, Front-End
 - 🌱 I’m currently learning Full Stack Developer
 - 💞️ I’m looking to collaborate on ...
